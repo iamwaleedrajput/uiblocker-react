@@ -10,7 +10,7 @@
     "react-uiblocker",
     "UI Blocker"
   ],
-  "version": "1.1.7",
+  "version": "1.1.8",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -22,6 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/iamwaleedrajput/uiblocker-react.git"
   },
+  "license": "MIT",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.16.1",
